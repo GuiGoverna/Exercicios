@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btn_perfil" type="id" />
+    <item name="btn_historico" type="id" />
+    <item name="btn_treinos" type="id" />
+    <item name="titulo_exercicio" type="id" />
+    <item name="descricao_exercicio" type="id" />
+    <item name="video_exercicio" type="id" />
+    <item name="lista_treinos" type="id" />
+    <item name="editTextNome" type="id" />
+    <item name="spinnerNivelAptidao" type="id" />
+    <item name="spinnerObjetivo" type="id" />
+    <item name="btnSalvarPerfil" type="id" />
+    <item name="botao_abrir_exercicios" type="id" />
+    <item name="botao_meu_perfil" type="id" />
+    <item name="botao_historico" type="id" />
+    <item name="nomeEditText" type="id" />
+    <item name="salvarButton" type="id" />
+    <item name="botao_voltar" type="id" />
+    <item name="exercicioTextView" type="id" />
+    <item name="historicoTextView" type="id" />
+    <item name="botao_limpar_historico" type="id" />
+    <item name="layoutExercicios" type="id" />
+    <item name="btnConcluir" type="id" />
+    <item name="textViewHistorico" type="id" />
+    <item name="nivelAptidaoTextView" type="id" />
+    <item name="objetivoTextView" type="id" />
+    <item name="nomeTextView" type="id" />
+</resources>

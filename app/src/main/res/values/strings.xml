@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Exercícios Personalizados</string>
+    <string name="nivel_aptidao_prompt">Selecione o nível de aptidão</string>
+    <string name="objetivos_prompt">Selecione seu objetivo</string>
+
+    <!-- Outras strings que você usa no projeto -->
+    <string name="botao_abrir_exercicios">Abrir Exercícios</string>
+    <string name="botao_meu_perfil">Meu Perfil</string>
+    <string name="botao_historico">Histórico</string>
+</resources>
