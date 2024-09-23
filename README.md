@@ -14,12 +14,5 @@ Tecnologias Utilizadas:
 Linguagem: Java
 IDE: Android Studio
 Armazenamento de Dados: SharedPreferences (para salvar informações de perfil e histórico de exercícios)
-Como Usar:
-Clone o repositório:
-bash
-Copiar código
-git clone https://github.com/seu-usuario/seu-repositorio.git
-Abra o projeto no Android Studio.
-Compile e execute o aplicativo em um dispositivo ou emulador Android.
 
 Autor: Guilherme Governa
